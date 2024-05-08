@@ -36,22 +36,3 @@ body {
 .home-text{
     font-size: 72px;
 }
-
-.photos {
-    padding: 150px 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.polaroid-attr {
-    display: flex;
-    flex-direction: row;
-}
-
-.camera {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-}
