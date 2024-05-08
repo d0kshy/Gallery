@@ -1,0 +1,38 @@
+:root {
+    --bgColor: white;
+    --textColor: black;
+}
+
+body {
+    background-color: var(--bgColor);
+    color: var(--textColor);
+    font-family: 'Teachers';
+}
+
+.home {
+    margin: 150px 0 0 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.sm-icons {
+    display: flex;
+    flex-direction: column;
+    margin: 0 150px 0 0;
+}
+
+.icon {
+    height: 40px;
+    width: 40px;
+    padding: 0 0 0 0;
+}
+
+.fb {
+    padding: 120px 0;
+}
+
+.home-text{
+    font-size: 72px;
+}
